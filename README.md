@@ -1,7 +1,7 @@
-#  web个人简历resume
+#  webresume个人简历
 
 #### 介绍
-我的Web前端个人简历，HTML+CSS+JS制作网页个人简历
+HTML+CSS+JS前端个人简历web网页(原生多页面)
 
 #### 相关技术
 - paper-full.min粒子插件
